@@ -1,0 +1,9 @@
+name: React CI
+
+on:
+  push:
+    branches:
+      - "master"
+
+jobs:
+  build: React
